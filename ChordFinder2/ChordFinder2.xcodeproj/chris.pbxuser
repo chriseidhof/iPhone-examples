@@ -1,0 +1,354 @@
+// !$*UTF8*$!
+{
+	1D3623250D0F684500981E51 /* ChordFinder2AppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1027}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1910}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* ChordFinder2 */ = {
+		activeExec = 0;
+		executables = (
+			83FB827712E48D0B00B9091B /* ChordFinder2 */,
+		);
+	};
+	28C286DF0D94DF7D0034E888 /* RootViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {823, 802}}";
+			sepNavSelRange = "{275, 0}";
+			sepNavVisRange = "{0, 381}";
+		};
+	};
+	28C286E00D94DF7D0034E888 /* RootViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {999, 2288}}";
+			sepNavSelRange = "{2282, 0}";
+			sepNavVisRange = "{0, 2170}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 83FB827712E48D0B00B9091B /* ChordFinder2 */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* ChordFinder2 */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* ChordFinder2 */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = 83FB828412E48D1D00B9091B /* Code sense */;
+		executables = (
+			83FB827712E48D0B00B9091B /* ChordFinder2 */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					10,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					324,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 318428349;
+			PBXWorkspaceStateSaveDate = 318428349;
+		};
+		perUserProjectItems = {
+			8327870912E5FAA30020C48A = 8327870912E5FAA30020C48A /* PBXTextBookmark */;
+			83635BF512E875660056B03B = 83635BF512E875660056B03B /* PBXTextBookmark */;
+			83635BF612E875660056B03B = 83635BF612E875660056B03B /* PlistBookmark */;
+			83635BF712E875660056B03B = 83635BF712E875660056B03B /* PlistBookmark */;
+			83635BF812E875660056B03B = 83635BF812E875660056B03B /* PBXTextBookmark */;
+			837160F612E71A810057FC0D = 837160F612E71A810057FC0D /* PBXTextBookmark */;
+			8371613012E71CBD0057FC0D = 8371613012E71CBD0057FC0D /* PBXTextBookmark */;
+			8371619F12E747850057FC0D = 8371619F12E747850057FC0D /* PBXTextBookmark */;
+			837161A612E7492F0057FC0D = 837161A612E7492F0057FC0D /* PBXTextBookmark */;
+			837161B012E756090057FC0D = 837161B012E756090057FC0D /* PBXTextBookmark */;
+			837161D012E792F40057FC0D = 837161D012E792F40057FC0D /* PBXTextBookmark */;
+			83F3B9C312FAD4DB00E69792 /* PlistBookmark */ = 83F3B9C312FAD4DB00E69792 /* PlistBookmark */;
+			83F3B9C412FAD4DB00E69792 /* PBXTextBookmark */ = 83F3B9C412FAD4DB00E69792 /* PBXTextBookmark */;
+			83F3B9C512FAD4DB00E69792 /* PBXTextBookmark */ = 83F3B9C512FAD4DB00E69792 /* PBXTextBookmark */;
+			83F3B9C612FAD4DB00E69792 /* PBXTextBookmark */ = 83F3B9C612FAD4DB00E69792 /* PBXTextBookmark */;
+			83F3B9D012FAD4DB00E69792 /* PBXTextBookmark */ = 83F3B9D012FAD4DB00E69792 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 83FB828312E48D1D00B9091B /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8327870912E5FAA30020C48A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 83FB828512E48DDE00B9091B /* ChordView.h */;
+		name = "ChordView.h: 16";
+		rLen = 0;
+		rLoc = 203;
+		rType = 0;
+		vrLen = 228;
+		vrLoc = 0;
+	};
+	83635BF512E875660056B03B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
+		name = "RootViewController.m: 66";
+		rLen = 0;
+		rLoc = 2282;
+		rType = 0;
+		vrLen = 2127;
+		vrLoc = 3701;
+	};
+	83635BF612E875660056B03B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 83FB828C12E48EC700B9091B /* chords.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			G,
+		);
+		name = "/Users/chris/Desktop/sprigs/example projects/ChordFinder3/chords.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	83635BF712E875660056B03B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 83FB828C12E48EC700B9091B /* chords.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/chris/Desktop/sprigs/example projects/ChordFinder3/chords.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	83635BF812E875660056B03B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 83FB828612E48DDE00B9091B /* ChordView.m */;
+		name = "ChordView.m: 71";
+		rLen = 0;
+		rLoc = 2183;
+		rType = 0;
+		vrLen = 1128;
+		vrLoc = 590;
+	};
+	837160F612E71A810057FC0D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* ChordFinder2AppDelegate.m */;
+		name = "ChordFinder2AppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1910;
+		vrLoc = 0;
+	};
+	8371613012E71CBD0057FC0D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286DF0D94DF7D0034E888 /* RootViewController.h */;
+		name = "RootViewController.h: 12";
+		rLen = 0;
+		rLoc = 275;
+		rType = 0;
+		vrLen = 367;
+		vrLoc = 0;
+	};
+	8371619F12E747850057FC0D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 83FB827E12E48D1C00B9091B /* ChordViewController.h */;
+		name = "ChordViewController.h: 29";
+		rLen = 0;
+		rLoc = 598;
+		rType = 0;
+		vrLen = 602;
+		vrLoc = 3;
+	};
+	837161A612E7492F0057FC0D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 83FB827F12E48D1C00B9091B /* ChordViewController.m */;
+		name = "ChordViewController.m: 50";
+		rLen = 0;
+		rLoc = 1568;
+		rType = 0;
+		vrLen = 867;
+		vrLoc = 29;
+	};
+	837161B012E756090057FC0D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 83FB828612E48DDE00B9091B /* ChordView.m */;
+		name = "ChordView.m: 30";
+		rLen = 0;
+		rLoc = 785;
+		rType = 0;
+		vrLen = 1778;
+		vrLoc = 0;
+	};
+	837161D012E792F40057FC0D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 83FB828612E48DDE00B9091B /* ChordView.m */;
+		name = "ChordView.m: 71";
+		rLen = 0;
+		rLoc = 2183;
+		rType = 0;
+		vrLen = 1128;
+		vrLoc = 590;
+	};
+	83F3B9C312FAD4DB00E69792 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 83FB828C12E48EC700B9091B /* chords.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			G,
+			5,
+		);
+		name = "/Users/chris/Desktop/sprigs/example projects/ChordFinder3/chords.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	83F3B9C412FAD4DB00E69792 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286DF0D94DF7D0034E888 /* RootViewController.h */;
+		name = "RootViewController.h: 12";
+		rLen = 0;
+		rLoc = 275;
+		rType = 0;
+		vrLen = 381;
+		vrLoc = 0;
+	};
+	83F3B9C512FAD4DB00E69792 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
+		name = "RootViewController.m: 66";
+		rLen = 0;
+		rLoc = 2282;
+		rType = 0;
+		vrLen = 2100;
+		vrLoc = 3701;
+	};
+	83F3B9C612FAD4DB00E69792 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
+		name = "RootViewController.m: 66";
+		rLen = 0;
+		rLoc = 2282;
+		rType = 0;
+		vrLen = 2170;
+		vrLoc = 0;
+	};
+	83F3B9D012FAD4DB00E69792 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 83FB828612E48DDE00B9091B /* ChordView.m */;
+		name = "ChordView.m: 71";
+		rLen = 0;
+		rLoc = 2183;
+		rType = 0;
+		vrLen = 1123;
+		vrLoc = 590;
+	};
+	83FB827712E48D0B00B9091B /* ChordFinder2 */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = ChordFinder2;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	83FB827E12E48D1C00B9091B /* ChordViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {532, 416}}";
+			sepNavSelRange = "{598, 0}";
+			sepNavVisRange = "{3, 602}";
+		};
+	};
+	83FB827F12E48D1C00B9091B /* ChordViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1139, 1144}}";
+			sepNavSelRange = "{1568, 0}";
+			sepNavVisRange = "{29, 867}";
+		};
+	};
+	83FB828312E48D1D00B9091B /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	83FB828412E48D1D00B9091B /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	83FB828512E48DDE00B9091B /* ChordView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {504, 455}}";
+			sepNavSelRange = "{255, 0}";
+			sepNavVisRange = "{0, 262}";
+		};
+	};
+	83FB828612E48DDE00B9091B /* ChordView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {803, 1248}}";
+			sepNavSelRange = "{2183, 0}";
+			sepNavVisRange = "{590, 1123}";
+			sepNavWindowFrame = "{{880, 454}, {800, 574}}";
+		};
+	};
+}
